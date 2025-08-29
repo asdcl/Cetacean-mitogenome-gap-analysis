@@ -1,4 +1,4 @@
-# BarcodeRetrieval-
+# gap-analysis-cetacea
 
 README — Cetacea Barcode Data Retrieval Script (Criar repositório no meu Github e depois alterar para o título do paper)
 

@@ -1,4 +1,4 @@
-# gap-analysis-cetacea
+# Cetacean-mitogenome-gap-analysis
 
 README — Cetacea Barcode Data Retrieval Script 
 

@@ -24,4 +24,4 @@ Add here:
 > Sys.setenv(ENTREZ_KEY="YOUR_KEY_HERE") 
 
 Citation:
-If you use or modify this code, please cite our paper:
+If you use or modify this code, please cite our paper: (manuscript submitted - reference will be updated when published)
